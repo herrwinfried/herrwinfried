@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Özgür, I'm dealing with Web Programming. You can view Open Source projects here
 <!--
 **herrwinfried/herrwinfried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
